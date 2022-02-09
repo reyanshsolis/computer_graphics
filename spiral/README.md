@@ -118,8 +118,8 @@ Cases:
 `./spiral 60 120 100 3`
 ![Screenshot from 2022-02-09 23-18-36](https://user-images.githubusercontent.com/32535717/153260854-3aad50d2-4232-4319-a9a0-d65d3b1ec52e.png)
 
-`./spiral 60 120 100 10`!
-[Screenshot from 2022-02-09 23-18-47](https://user-images.githubusercontent.com/32535717/153260710-83df654d-1f6c-433b-ae67-2cb025711155.png)
+`./spiral 60 120 100 10`
+![Screenshot from 2022-02-09 23-18-47](https://user-images.githubusercontent.com/32535717/153260710-83df654d-1f6c-433b-ae67-2cb025711155.png)
 
 `./spiral 60 120 100 100`
 ![Screenshot from 2022-02-09 23-18-56](https://user-images.githubusercontent.com/32535717/153260741-cbbe0558-8dcb-4652-ad80-cc556b74be3e.png)
