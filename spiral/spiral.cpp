@@ -1,3 +1,6 @@
+// 17QE30004 Rishabh Singh
+// Computer Graphics Assignment 1
+
 #include <iostream>
 #include <vector>
 

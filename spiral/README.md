@@ -89,6 +89,7 @@ Example:
 ```bash
   ./spiral 60 120 1000 10
 ```
-![Screenshot from 2022-02-08 20-53-49](https://user-images.githubusercontent.com/32535717/153019611-869fb3fb-0bd0-49c4-a60e-0092054cd4a7.png)
+![Case_60_120_1000_10](https://user-images.githubusercontent.com/32535717/153019611-869fb3fb-0bd0-49c4-a60e-0092054cd4a7.png)
 
 ---
+
