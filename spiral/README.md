@@ -93,3 +93,54 @@ Example:
 
 ---
 
+Cases:
+
+## Changing `resolution`:
+`/spiral 60 120 10 10`
+![Screenshot from 2022-02-09 23-16-49](https://user-images.githubusercontent.com/32535717/153260332-6e585db6-0c0b-495b-875b-3744f0ba5d3c.png)
+
+`/spiral 60 120 5 10`
+![Screenshot from 2022-02-09 23-17-30](https://user-images.githubusercontent.com/32535717/153260392-e76e4e2c-0365-462a-99cf-44293721221c.png)
+
+---
+
+## Changing `number_of_spirals`:
+
+`./spiral 60 120 100 0`
+![Screenshot from 2022-02-09 23-18-02](https://user-images.githubusercontent.com/32535717/153260512-db6c0cad-8ed8-4a36-af65-77244acbe7ac.png)
+
+`./spiral 60 120 100 1`
+![Screenshot from 2022-02-09 23-18-12](https://user-images.githubusercontent.com/32535717/153260651-d1d6feaf-a8a5-4ace-842d-a27547bcb8af.png)
+
+`./spiral 60 120 100 2`
+![Screenshot from 2022-02-09 23-18-26](https://user-images.githubusercontent.com/32535717/153260659-17c9d6ec-2d6e-4032-9328-248090ab4ab1.png)
+
+`./spiral 60 120 100 3`
+![Screenshot from 2022-02-09 23-18-36](https://user-images.githubusercontent.com/32535717/153260854-3aad50d2-4232-4319-a9a0-d65d3b1ec52e.png)
+
+`./spiral 60 120 100 10`!
+[Screenshot from 2022-02-09 23-18-47](https://user-images.githubusercontent.com/32535717/153260710-83df654d-1f6c-433b-ae67-2cb025711155.png)
+
+`./spiral 60 120 100 100`
+![Screenshot from 2022-02-09 23-18-56](https://user-images.githubusercontent.com/32535717/153260741-cbbe0558-8dcb-4652-ad80-cc556b74be3e.png)
+
+---
+
+## Changing `major_radius`:
+` ./spiral 60 60 100 10`
+![Screenshot from 2022-02-09 23-19-12](https://user-images.githubusercontent.com/32535717/153261061-cfc2ef53-41fd-4887-bf65-05c0140d3daa.png)
+
+` ./spiral 60 30 100 10`
+![Screenshot from 2022-02-09 23-19-25](https://user-images.githubusercontent.com/32535717/153261163-37e0b372-08ff-4178-b176-9e303be02a50.png)
+
+` ./spiral 60 0 100 10`
+![Screenshot from 2022-02-09 23-19-38](https://user-images.githubusercontent.com/32535717/153261181-d507ee7f-c4e6-4834-be86-ab3bb50ee2dc.png)
+---
+
+## Changing `minor_radius`:
+`./spiral 0 0 100 10`
+![Screenshot from 2022-02-09 23-19-50](https://user-images.githubusercontent.com/32535717/153261340-a5b62930-52d6-42ca-8010-9b0e69b076b6.png)
+
+---
+
+Using negative for any parameter throws error (std::error)
