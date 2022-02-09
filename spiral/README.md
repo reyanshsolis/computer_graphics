@@ -4,7 +4,9 @@
 Computer Graphics, Spring’22 : Assignment 1
 Rishabh Singh : 17QE30004
 ---
+Repository: https://github.com/reyanshsolis/computer_graphics/edit/main/spiral/
 
+---
 Mathematical Formulation:
 
 - Parameteric Equation of a Circle:
